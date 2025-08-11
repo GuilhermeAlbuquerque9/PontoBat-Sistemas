@@ -22,7 +22,7 @@ https://github.com/GuilhermeAlbuquerque9/PontoBat-Sistemas
 📬 Contato
 
 Quer conversar, sugerir ideias ou colaborar?  
-Envie um e-mail para: `PontoBat_Sistemas@hotmail.com`
+Envie um e-mail para: `PontoBat_Sistemas@gmail.com`
 
 ---
 
